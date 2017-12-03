@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout << "hello world" << std::endl;
+    std::cout << "hello world, nice day" << std::endl;
     std::cout << "Enter two numbers:" << std::endl;
     int v1 = 0, v2 = 0;
     std::cin >> v1 >> v2;
